@@ -23,7 +23,7 @@
    * It returns `None` as a safe fallback value when the generator expression finds no matching row.
 
 8. **What is the difference between `raise` and `except`?**
-   * **`raise`**: Actively stops execution and generates an explicit error when a problem occurs[cite: 3].
+   * **`raise`**: Actively stops execution and generates an explicit error when a problem occurs.
    * **`except`**: Catches and handles a specific expected error so the program can manage the failure gracefully.
 
 9. **What does `**arguments` do before a function call?**
